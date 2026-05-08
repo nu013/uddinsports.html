@@ -1,9 +1,9 @@
 {
-  "id": "/uddinsports.html/index.html",
+  "id": "/uddinsports/index.html",
   "name": "UddinSports",
   "short_name": "Uddin",
-  "start_url": "/uddinsports.html/index.html",
-  "scope": "/uddinsports.html/",
+  "start_url": "/uddinsports/index.html",
+  "scope": "/uddinsports/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
